@@ -2,4 +2,4 @@
 
 ---
 
-![[ddemo.gif]]
+![ddemo.gif](ddemo.gif)
